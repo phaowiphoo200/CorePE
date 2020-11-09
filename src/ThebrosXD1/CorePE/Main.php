@@ -14,5 +14,5 @@ class CorePE extends PluginBase implements Listener {
   public function OnEnable(){
   $this->getLogger()->Info( CorePE Habilitado)
   
-  Public function OnDisabled(){
+
   $thid->getLogger()->Info( CorePE Desabilitado)
